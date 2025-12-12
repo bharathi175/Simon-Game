@@ -1,4 +1,4 @@
-$("h1").text("my website❤️ press any key to start! have fun❤️");
+$("h1").text(" press any key to start! have fun❤️");
 
 var gamePattern = [];
 var userClickedPattern = [];
@@ -83,3 +83,4 @@ function startOver() {
   gamePattern = [];
   started = false;
 }
+
